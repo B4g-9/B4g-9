@@ -1,12 +1,8 @@
-
-
-
-
 ## Hi guys! Gabriele dos santos de freitas 😉👍
 
--  🐱‍👤✨Aluna do Curso Técnico em Informática no Colégio Cedup Abílio Paulo de Criciúma/SC - Brasil
+-  🐱‍👤✨ Hellol word! sou aluna do Curso Técnico em Informática no Colégio Cedup Abílio Paulo de Criciúma/SC - Brasil
 -   perfil para os meus estudos 🧐👾
--   
+  
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=B4g-9&theme=radical&show_icons=true)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=B4g-9&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
